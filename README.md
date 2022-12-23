@@ -1,5 +1,9 @@
 #  HEP BezStruje Notifier
 
+
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![.NET - 7](https://img.shields.io/badge/.NET-7-2ea44f)](https://)
+
 ## Opis
 
 <p>Parser za https://www.hep.hr/ods/bez-struje/19 koji povlači informacije o prekidu isporuke struje za postavljenu lokaciju za trenutni dan te sljedeća dva i obavještava korisnika emailom u slučaju nestanke struje za postavljenu lokaciju </p>
